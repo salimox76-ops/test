@@ -1,0 +1,6 @@
+{
+  "name": "To 21 — A Cinematic Birthday Chronicle",
+  "description": "An intimate, interactive 21st birthday storybook and visual novel journey, celebrating love, memories, and 21 candles on November 23, 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
